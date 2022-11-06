@@ -40,7 +40,7 @@ python 3.10优化了错误提示，比如代码中丢失了字典的花括号，
 python3.10 会提示到具体的位置，并提示具体的报错原因。
 
 #### 示例代码
-[better-error-messages.py](example/managing-python-versions-better-error-messages.py)
+[better-error-messages.py](/example/managing-python-versions-better-error-messages.py)
 
 #### 执行
 ```bash
